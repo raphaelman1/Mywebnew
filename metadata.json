@@ -1,0 +1,8 @@
+{
+  "name": "Remix Form Six Helper TZ",
+  "description": "A modern, mobile-friendly guide and checklist tracker for Tanzanian Form Six graduates to access HESLB, NIDA, RITA, TCU university, and job applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
